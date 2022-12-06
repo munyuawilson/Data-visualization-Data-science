@@ -1,3 +1,3 @@
-# Data-visualization-Data-science
+# Data-science
 
-THe notebooks shows a sentiment analysis of some given data.
+The notebooks shows a Analysuis of a given set of data.
