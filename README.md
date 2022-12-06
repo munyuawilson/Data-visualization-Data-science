@@ -1,3 +1,3 @@
 # Data-science
 
-The notebooks shows a Analysuis of a given set of data.
+The notebooks shows an Analysis of a given set of data.
